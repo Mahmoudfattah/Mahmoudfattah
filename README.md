@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudfattah" alt="mahmoudfattah" /></a> </p>
 
-- 🔭 I’m currently working on **Open to work**
+- 🔭 I’m currently  **Open to work**
 
 - 🌱 I’m currently learning **Front-End frameworks, Next.js,TypeScript and advanced English for IELTS.**
 
