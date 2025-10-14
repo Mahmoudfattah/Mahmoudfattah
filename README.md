@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Front-End frameworks, Next.js,TypeScript and advanced English for IELTS.**
 
-- 👨‍💻 All of my projects are available at(https://mahmoudfattah.netlify.app/)]((https://mahmoudfattah.netlify.app/))
-- 
+- 👨‍💻 All of my projects are available here too at [(https://mahmoudfattah.netlify.app)]
+
 - 👨‍💻 All of my projects are available here too at [https://mahmoudfattah.github.io/Portfolio-GJ/](https://mahmoudfattah.github.io/Portfolio-GJ/)
 
 - 💬 Ask me about **React, Next.js, Firebase, Tailwind CSS, and building fast websites.**
