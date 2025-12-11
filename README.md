@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available here too at [(https://mahmoudfattah.netlify.app)]
 
-- 👨‍💻 All of my projects are available here too at [[https://mahmoudfattah.github.io/Portfolio-GJ/](https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk)](https://mahmoudfattah.github.io/Portfolio-GJ/)
+- 👨‍💻 All of my projects are available here too at [https://mahmoudfattah.github.io/Portfolio-GJ/](https://mahmoudfattah.github.io/Portfolio-GJ/)
 
 - 💬 Ask me about **React, Next.js, Firebase, Tailwind CSS, and building fast websites.**
 
 - 📫 How to reach me **Hoodafatah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk](https://drive.google.com/file/d/1dmQC9RsphDiQFpoMED40uksWvGdnFBso/view?usp=drivesdk)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk]([https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk](https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk))](https://drive.google.com/file/d/1dmQC9RsphDiQFpoMED40uksWvGdnFBso/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can turn coffee into code and bugs into features.**
 
