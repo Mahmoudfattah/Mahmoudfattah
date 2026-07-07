@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-fattah-a541b0262"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-0C4A6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -271,7 +271,7 @@ open_to:
 <div align="center">
 
 <a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-fattah-a541b0262"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-0C4A6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/></a>
 
