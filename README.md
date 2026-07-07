@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Mahmoud%20Fattah&fontSize=48&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descAlignY=55&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0B3D91,100:0B1120&height=220&section=header&text=Mahmoud%20Fattah&fontSize=48&fontColor=7DD3FC&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descAlignY=55&descColor=38BDF8" width="100%"/>
 
 <a href="https://github.com/Mahmoudfattah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+scalable+React+%2F+TypeScript+applications;Enterprise+ERP+%26+Dashboard+Engineering;RTK+Query+%7C+Redux+Toolkit+%7C+Clean+Architecture;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+scalable+React+%2F+TypeScript+applications;Enterprise+ERP+%26+Dashboard+Engineering;RTK+Query+%7C+Redux+Toolkit+%7C+Clean+Architecture;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Cairo,_Egypt-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/Mahmoudfattah?style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B2E"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmahmoudfattah-github%2Fprofile&color=6D28D9&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/badge/Location-Cairo,_Egypt-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Mahmoudfattah?style=for-the-badge&logo=github&color=0284C7&labelColor=0B1120"/>
+<img src="https://komarev.com/ghpvc/?username=Mahmoudfattah&style=for-the-badge&color=0284C7&labelColor=0B1120"/>
 
 <br/><br/>
 
-<a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-0C4A6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -216,10 +216,10 @@ Hotel management dashboard with full CRUD operations, Supabase Auth, React Query
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoudfattah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudfattah&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoudfattah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Mahmoudfattah&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudfattah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudfattah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -235,7 +235,7 @@ Hotel management dashboard with full CRUD operations, Supabase Auth, React Query
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudfattah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudfattah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=7DD3FC" width="100%"/>
 
 </div>
 
@@ -270,10 +270,10 @@ open_to:
 
 <div align="center">
 
-<a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-0C4A6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -283,6 +283,6 @@ open_to:
 
 *"Clean code always looks like it was written by someone who cares."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0B3D91,100:0A0E27&height=120&section=footer"/>
 
 </div>
