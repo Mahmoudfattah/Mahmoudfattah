@@ -1,37 +1,288 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Fattah</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Mahmoud%20Fattah&fontSize=48&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descAlignY=55&descColor=A78BFA" width="100%"/>
 
+<a href="https://github.com/Mahmoudfattah">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+scalable+React+%2F+TypeScript+applications;Enterprise+ERP+%26+Dashboard+Engineering;RTK+Query+%7C+Redux+Toolkit+%7C+Clean+Architecture;Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently  **Open to work**
+<br/>
 
-- 🌱 I’m currently learning **Front-End frameworks, Next.js,TypeScript and advanced English for IELTS.**
+<img src="https://img.shields.io/badge/Location-Cairo,_Egypt-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Mahmoudfattah?style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmahmoudfattah-github%2Fprofile&color=6D28D9&labelColor=1E1B2E"/>
 
-- 👨‍💻 All of my projects are available here too at [(https://mahmoudfattah.netlify.app)]
+<br/><br/>
 
-- 👨‍💻 All of my projects are available here too at [https://mahmoudfattah.github.io/Portfolio-GJ/](https://mahmoudfattah.github.io/Portfolio-GJ/)
+<a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- 💬 Ask me about **React, Next.js, Firebase, Tailwind CSS, and building fast websites.**
+</div>
 
-- 📫 How to reach me **Hoodafatah@gmail.com**
+<br/>
 
-- 📄 Know about my experiences ((https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk))](https://drive.google.com/file/d/1dmQC9RsphDiQFpoMED40uksWvGdnFBso/view?usp=drivesdk)
-](https://drive.google.com/file/d/1mTk_bknki-nlguGdzkeYQoFzox9F5GkP/view?usp=drivesdk)
-- ⚡ Fun fact **I can turn coffee into code and bugs into features.**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoud fattah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud fattah" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud fattah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud fattah" height="30" width="40" /></a>
-<a href="https://instagram.com/mo__fattah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo__fattah" height="30" width="40" /></a>
-<a href="https://discord.gg/Mahmoud Fattah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahmoud Fattah" height="30" width="40" /></a>
-</p>
+```yaml
+name: "Mahmoud Fattah"
+title: "Front-End Engineer"
+based_in: "Cairo, Egypt"
+experience: "1+ year production experience"
+focus:
+  - Scalable React / TypeScript applications
+  - Enterprise ERP & dashboard systems
+  - Typed API service architecture (Axios, RTK Query)
+  - Performance optimization (code-splitting, lazy loading, asset optimization)
+currently:
+  - Architecting the full frontend of an enterprise ERP system (Aithon)
+  - Deepening motion & interaction design (GSAP, Framer Motion)
+education: "B.Sc. Information Systems, Helwan University (2020–2024)"
+languages: "Arabic (Native) · English (Proficient, B2)"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I'm a Front-End Engineer who has shipped production React/TypeScript applications across ERP, dashboard, and e-commerce domains — including a real-time multi-location inventory system, typed API service layers, and analytics dashboards used for live business decisions. I care about clean architecture, typed and maintainable code, and measurable performance gains, having delivered 50%+ page-load improvements through code-splitting and lazy loading on past projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudfattah&show_icons=true&locale=en&layout=compact" alt="mahmoudfattah" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudfattah&show_icons=true&locale=en" alt="mahmoudfattah" /></p>
+## Engineering Principles
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudfattah&" alt="mahmoudfattah" /></p>
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**Typed Architecture**
+<br/>
+Typed API service layers with clean UI/data separation
+
+</td>
+<td width="25%" align="center">
+
+**Performance First**
+<br/>
+Code-splitting, lazy loading, asset optimization
+
+</td>
+<td width="25%" align="center">
+
+**Efficient State**
+<br/>
+RTK Query caching to eliminate redundant requests
+
+</td>
+<td width="25%" align="center">
+
+**Reusable UI**
+<br/>
+Component systems built for reuse and maintainability
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass" />
+
+**Animation**
+
+<img src="https://skillicons.dev/icons?i=gsap,threejs" />
+
+**Backend / Data**
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vite,figma,jest" />
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<details open>
+<summary><b>🔹 Interactive Portfolio v3</b></summary>
+<br/>
+
+**Stack:** React (Vite) · GSAP · Matter.js · Framer Motion · Supabase
+
+Built a physics-based UI using Matter.js, layered with a GSAP ScrollTrigger editorial intro, a masked name reveal, and scale-exit transitions. Backed by a Supabase CMS with drag-and-drop uploads and RLS-secured Storage.
+
+[Live Demo](https://mahmoudfattah.netlify.app)
+
+</details>
+
+<details>
+<summary><b>🔹 SooQ-Store — E-Commerce Platform</b></summary>
+<br/>
+
+**Stack:** React.js · Redux Toolkit · Axios · Bootstrap 5 · Formik
+
+Full e-commerce platform with product browsing, cart/wishlist, authentication, and payments. Redux Toolkit manages global state, Formik + Yup handle form validation, and the UI is built responsively with Bootstrap 5.
+
+[Live Demo](https://mahmoudfattah.github.io/SooQ-Store/) · [View on GitHub](https://github.com/Mahmoudfattah/SooQ-Store)
+
+</details>
+
+<details>
+<summary><b>🔹 The Wild Oasis — Hotel Management Dashboard</b></summary>
+<br/>
+
+**Stack:** React.js · Supabase · React Query · Recharts · Styled Components
+
+Hotel management dashboard with full CRUD operations, Supabase Auth, React Query caching with optimistic updates, Recharts-powered sales analytics, dark mode via Context API, and a reusable component system.
+
+[View on GitHub](https://github.com/Mahmoudfattah)
+
+</details>
+
+<br/>
+
+## Professional Experience
+
+<table width="100%">
+<tr>
+<td>
+
+**Front-End Developer** — Aithon *(Hybrid, mostly remote)*
+`Jan 2026 – Present`
+
+- Architected the full frontend of an enterprise ERP system (React, TypeScript, Next.js + Laravel REST API) across Inventory, Sales, Purchases, and Task Management modules
+- Engineered a real-time multi-location inventory module with automatic status logic (In Stock / Low Stock / Out of Stock), bulk allocations, and a complete movement audit trail
+- Designed typed API service layers (`inventoryService`, `salesApi`, `purchaseService`) with Axios + Sanctum auth and RTK Query caching — eliminating redundant requests and improving UI responsiveness
+- Delivered sales/purchase order analytics dashboards: revenue summaries, top customer/vendor rankings, and status distribution charts enabling real-time business decisions
+
+`React` `TypeScript` `Next.js` `Laravel` `RTK Query` `Axios`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Front-End Developer** — Apex Company *(Remote)*
+`Jun 2025 – Jul 2025`
+
+- Shipped a full reporting suite (React, TypeScript, Tailwind CSS) with Chart.js visualizations and XLSX.js export — delivered in under one week with 100% data accuracy across all medical and financial report types
+
+`React` `TypeScript` `Tailwind CSS` `Chart.js` `XLSX.js`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Front-End Developer (Freelance)** — IT Launchpad *(Remote)*
+`Mar 2025 – Apr 2025`
+
+- Cut portfolio load time by 50%+ via lazy loading, code-splitting, and image optimization (React, Framer Motion)
+- Integrated EmailJS to fully automate lead capture and client inquiry handling
+
+`React` `Framer Motion` `EmailJS`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Graduation Project — Grade A+ | *"Bookify"*, B.Sc. Information Systems, Helwan University |
+| Performance Optimization | 50%+ page-load improvement via code-splitting, lazy loading & asset optimization |
+| Rapid Delivery | Full reporting suite shipped in under one week with 100% data accuracy |
+
+</div>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoudfattah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudfattah&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudfattah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mahmoudfattah&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudfattah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%"/>
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mahmoudfattah/Mahmoudfattah/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## Current Focus
+
+```yaml
+learning:
+  - GSAP (ScrollTrigger) & advanced motion design
+  - Framer Motion & Lenis for smooth-scroll interactions
+building:
+  - Enterprise ERP frontend (Inventory, Sales, Purchases, Task Management)
+exploring:
+  - Design-driven front-end engineering
+open_to:
+  - Full-time Front-End / React opportunities
+  - Freelance projects requiring production-grade React & TypeScript
+```
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://mahmoudfattah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-fattah"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hoodafatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mahmoudfattah"><img src="https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Clean code always looks like it was written by someone who cares."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+
+</div>
